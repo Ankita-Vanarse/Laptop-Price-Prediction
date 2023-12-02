@@ -1,3 +1,3 @@
 #!/bin/bash
 
-streamlit run app.py
+RUN streamlit run app.py
